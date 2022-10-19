@@ -23,7 +23,3 @@ section {
 .returnal_container {
     width: 60%;
 }
-
-.my_card img{
-    object-fit: contain;
-}
