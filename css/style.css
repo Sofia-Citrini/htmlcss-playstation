@@ -20,6 +20,11 @@ section {
     padding-top: 300px;
 }
 
-.returnal_container {
+.nameGame_container {
     width: 60%;
+}
+
+.game_section {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
 }
