@@ -1,4 +1,5 @@
-section {
+section,
+footer {
     padding: 2rem;
 }
 
@@ -27,4 +28,17 @@ section {
 .game_section {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
+}
+
+.my_link {
+    color:white;
+    padding: .3rem;
+}
+
+.play_footer_logo img {
+    width: 100px;
+}
+
+.sony_interactive {
+    width: 200px;
 }
