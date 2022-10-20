@@ -1,6 +1,6 @@
 section,
 footer {
-    padding: 2rem;
+    padding: 3rem;
 }
 
 .sony_container {
@@ -44,6 +44,12 @@ footer {
     border: none;
     background-color: #D9DADC;
     color: #4A75E5;
+}
+
+.btn_now {
+    border: none;
+    background-color: white;
+    color: black;
 }
 
 .my_link {
