@@ -40,6 +40,12 @@ footer {
     overflow: hidden;
 }
 
+.btn_plus {
+    border: none;
+    background-color: #D9DADC;
+    color: #4A75E5;
+}
+
 .my_link {
     color:white;
     padding: .3rem;
