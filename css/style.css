@@ -36,6 +36,10 @@ footer {
     background-size: cover;
 }
 
+.my_card {
+    overflow: hidden;
+}
+
 .my_link {
     color:white;
     padding: .3rem;
