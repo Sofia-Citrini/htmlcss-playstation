@@ -38,6 +38,15 @@ footer {
     overflow: hidden;
 }
 
+.my_card:hover {
+    border: 2px solid var(--bs-blue);
+}
+
+.my_card_accessory:hover {
+    border-bottom: 2px solid var(--bs-blue);
+    transform: scale(1.3)
+};
+
 /* banner */
 .nameGame_container {
     width: 60%;
